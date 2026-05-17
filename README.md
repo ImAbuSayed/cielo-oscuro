@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cielo-oscuro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cielo Oscuro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cielo-oscuro/) |
+| **Get License** | [Secure Licensing Rights for Cielo Oscuro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cielo-oscuro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la ciudad se viste de negro y deseo,
+> Tú me miras y en tu cuerpo yo me pierdo y me mareo.
+> Pide lo que quieras, nena, que yo te lo concedo,
+> Un perreo lento, oscuro, donde no existe el miedo.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

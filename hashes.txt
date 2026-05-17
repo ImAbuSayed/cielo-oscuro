@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cielo Oscuro
+
+This log tracks the cryptographic history and versioning for the song **Cielo Oscuro** (cielo-oscuro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T17:15:43.432666 | `v1` | `c34fe7a3949117d1794889793db8e9ac5324a06782a01910ae24693d87f2d710` | `11fa362aa2ba2d51aba4bdb1e3e27ccf8f4c12282a5dfa49138f00445eaa0269` | `2026-05-17_cielo-oscuro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

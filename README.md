@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cielo-oscuro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Cielo Oscuro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cielo-oscuro/) |
+| **Get License** | [Official Music Licensing for Cielo Oscuro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cielo-oscuro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c34fe7a3949117d1794889793db8e9ac5324a06782a01910ae24693d87f2d710` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
